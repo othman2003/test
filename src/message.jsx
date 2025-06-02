@@ -7,7 +7,7 @@ function message({ }) {
 
 <h1>bonjor</h1>
 
-
+<h2>holle</h2>
 
   )
 }
